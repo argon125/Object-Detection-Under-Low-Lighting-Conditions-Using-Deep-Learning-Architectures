@@ -8,3 +8,6 @@ Equisampling followed by comparing the results using cutting-edge object detecti
 techniques is the primary task of the present work. In this paper, we analyze the methodologies that led to the improvement in the performance of the deep learning-based object detection algorithms. 
 The methodology is based on the enhancement of the input images with low light intensity before performing object detection. 
 We also formulated a new method to obtain better bounding boxes predictions for object detection using RCNN.
+
+
+Model Weights available at: https://drive.google.com/drive/folders/1tRt-JVO2icQFF8JJng3XlWcacRU7POEn?usp=sharing
