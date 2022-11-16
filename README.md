@@ -11,3 +11,5 @@ We also formulated a new method to obtain better bounding boxes predictions for 
 
 
 Model Weights available at: https://drive.google.com/drive/folders/1tRt-JVO2icQFF8JJng3XlWcacRU7POEn?usp=sharing
+
+Link to paper: Will be available shortly
