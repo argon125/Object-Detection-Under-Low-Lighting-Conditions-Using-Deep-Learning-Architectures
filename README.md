@@ -13,4 +13,4 @@ We also formulated a new method to obtain better bounding boxes predictions for 
 Model Weights available at: https://drive.google.com/drive/folders/1tRt-JVO2icQFF8JJng3XlWcacRU7POEn?usp=sharing
 
 Authors: Arrun Sivasubramanian, Prashanth VR, Arun Prakash J, Dharshan Kumar KS, Sowmya V, Sajith Varrier VV
-Link to paper: Will be available shortly
+Link to paper: https://link.springer.com/chapter/10.1007/978-981-99-3656-4_27
